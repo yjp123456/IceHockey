@@ -1,4 +1,4 @@
-package com.android;
+package com.example.opengl;
 
 import android.content.Context;
 import android.opengl.GLSurfaceView;
@@ -10,13 +10,14 @@ import com.android.objects.Table;
 import com.android.programs.ColorShaderProgram;
 import com.android.programs.TextureShaderProgram;
 import com.android.util.Geometry;
+import com.android.util.MatrixHelper;
 import com.android.util.Ray;
-import com.example.opengl.MatrixHelper;
-import com.example.opengl.R;
-import com.example.opengl.TextureHelper;
+import com.android.util.TextureHelper;
+
 
 import javax.microedition.khronos.egl.EGLConfig;
 import javax.microedition.khronos.opengles.GL10;
+
 
 import static android.opengl.GLES20.GL_COLOR_BUFFER_BIT;
 import static android.opengl.GLES20.glClear;

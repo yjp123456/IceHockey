@@ -2,8 +2,8 @@ package com.android.programs;
 
 import android.content.Context;
 
-import com.example.opengl.ShadeHelper;
-import com.example.opengl.TextResourceReader;
+import com.android.util.ShadeHelper;
+import com.android.util.TextResourceReader;
 
 import static android.opengl.GLES20.glUseProgram;
 

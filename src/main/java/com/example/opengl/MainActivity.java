@@ -10,7 +10,7 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.Toast;
 
-import com.android.AirHockeyRender;
+
 
 public class MainActivity extends AppCompatActivity {
 

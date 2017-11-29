@@ -1,4 +1,4 @@
-package com.example.opengl;
+package com.android.util;
 
 import android.content.Context;
 
